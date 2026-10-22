@@ -1,0 +1,76 @@
+session_id:
+game_name:
+game_version:
+rules_version:
+date_or_iteration:
+session_focus:
+player_count:
+game_count:
+testers:
+  - tester_id:
+    name:
+    primary_type:
+    play_style:
+    experience:
+    reason_selected:
+setup_notes:
+observed_behaviour:
+  - observation:
+    affected_testers:
+    likely_cause:
+rules_questions:
+  - question:
+    asked_by:
+    rule_area:
+    severity:
+confusion_points:
+  - issue:
+    frequency:
+    affected_testers:
+    proposed_fix:
+balance_findings:
+  - issue:
+    evidence:
+    severity:
+accessibility_findings:
+  - issue:
+    affected_need:
+    severity:
+emotional_response:
+social_dynamics:
+tester_feedback:
+  - tester_id:
+    feedback:
+    confidence:
+    possible_bias:
+audit_scores:
+  rule_clarity:
+    score:
+    colour:
+    evidence:
+  onboarding:
+    score:
+    colour:
+    evidence:
+  pacing:
+    score:
+    colour:
+    evidence:
+  strategic_depth:
+    score:
+    colour:
+    evidence:
+  balance:
+    score:
+    colour:
+    evidence:
+  accessibility:
+    score:
+    colour:
+    evidence:
+recommendations:
+  must_fix:
+  should_fix:
+  could_improve:
+  do_not_change:
+  needs_more_testing:

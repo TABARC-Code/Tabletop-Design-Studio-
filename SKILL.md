@@ -147,6 +147,8 @@ The stage sequence the modes follow is also this build's proposal, not a copy of
 
 ## Pipeline
 
+This order is a proposal of this build, not taken from a source. The hydra autopilot steps, a different ordering of the same work, are in `references/hydra/pipeline.md` under section 2.
+
 A new game from a raw idea runs Concept, then Mechanics, then Balance and odds, then Playtesting. Rules writing runs alongside Mechanics once the core loop is stable. Cards, scenarios and components are added as the game needs them. Gates and status run throughout.
 
 ## Writing style

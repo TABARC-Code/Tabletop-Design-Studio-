@@ -1,5 +1,7 @@
 # Example Playtest Audit Report
 
+Fictional demonstration using simulated personas. The sessions, scores and feedback below are illustrative, not observed playtest evidence.
+
 ## 1. Executive Summary
 
 **Game:** Iron Orchard  
@@ -26,11 +28,11 @@ The core resource engine is strong, especially for euro and 4X players, but the 
 
 ```yaml
 tester_id: 147
-tester_name: Dev "Forge" Chen
-persona_type: Euro/Heavy Strategy, Optimiser
+tester_name: Milo "Fleet" Ibrahim
+persona_type: Euro/Economic Simulation, House-ruler
 feedback: The engine is readable after round two, but the first round feels like choosing from fog. I need an example of a good opening.
 confidence: medium
-possible_bias: Enjoys heavier systems and may tolerate more complexity than target audience.
+possible_bias: May patch unclear rules and under-report the resulting friction.
 design_relevance: High for onboarding and decision scaffolding.
 ```
 

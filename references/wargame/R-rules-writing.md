@@ -2,7 +2,7 @@
 
 Rulebook structure, style principles, forensic analysis techniques, tone, terminology discipline, navigation design, indexing, cross-referencing, and playtesting methodology.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: C (design philosophy), B (keyword definitions), H (tone/persona), D (rules that describe activation)
 
 ---

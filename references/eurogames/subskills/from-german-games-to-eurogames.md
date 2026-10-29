@@ -1,6 +1,6 @@
 # From German Games to Eurogames: The Crossing
 
-**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../SKILL.md)
+**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../master.md)
 
 **Related subskills:**
 - [Gesellschaftsspiele: The German Table](gaming-in-germany.md)

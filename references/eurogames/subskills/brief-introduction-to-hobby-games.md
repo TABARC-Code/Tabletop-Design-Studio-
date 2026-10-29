@@ -1,6 +1,6 @@
 # A Gentle Map of Hobby Games
 
-**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../SKILL.md)
+**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../master.md)
 
 **Related subskills:**
 - [The Anglo-American Hobby Board Game Archive, 1960–1995](anglo-american-hobby-board-games-1960-1995.md)

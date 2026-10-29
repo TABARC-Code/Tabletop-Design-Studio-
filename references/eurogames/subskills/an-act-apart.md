@@ -1,6 +1,6 @@
 # An Act Apart? Play, Context, and the Permeable Circle
 
-**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../SKILL.md)
+**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../master.md)
 
 **Related subskills:**
 - [The Pleasures of Play: Why the Table Sings](the-pleasures-of-play.md)

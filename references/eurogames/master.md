@@ -81,27 +81,6 @@ A eurogame can be simple to teach and still rich in play. The goal is not minima
 
 This skill must treat the social context as part of the design surface. Players do not merely solve systems; they also manage mood, rivalry, generosity, face-saving, tempo, and post-game satisfaction. Use that lens whenever the user asks why a game “works”, “falls flat”, or “gets nasty”.
 
-## Skill setup and package rules
-
-When this skill is packaged or regenerated, follow these rules exactly:
-
-1. The zip must contain **exactly one top-level folder**.
-2. The package must contain **exactly one file named `SKILL.md`**.
-3. All other modules must live in a **subskill system**, typically under `subskills/`.
-4. Subskills must be **full instruction documents**, not placeholders, scratch notes, outlines, TODO shells, or thin summaries.
-5. Every subskill must include **bi-directional backlinks**:
-   - a link back to this master skill
-   - links to the most relevant sibling subskills
-6. The package must contain **no unfinished drafting markers** such as abandoned draft notes, expansion reminders, dummy filler, or empty stubs.
-7. The package must read like a **live production skill**, with working routing logic, concrete guidance, and finished wording.
-8. The skill title and subskill titles should be **variation titles** that preserve the book’s context without copying it flatly and without naming the author.
-9. If introductory or concluding material exists in the source book, absorb it into the master routing and operating rules unless the user specifically requests standalone subskills for those parts.
-10. Audit the final package before zipping:
-    - confirm folder count
-    - confirm `SKILL.md` uniqueness
-    - confirm all backlinks resolve
-    - confirm there are no empty files or missing references
-
 ## How to route work
 
 ### Route to the relevant subskill when the user asks for:
@@ -241,17 +220,4 @@ This master skill should preserve that spirit. It is not only for inventing mech
 - [The Pleasures of Play: Why the Table Sings](subskills/the-pleasures-of-play.md)
 - [Goals and Outcomes in Social Play: Winning Without Ruining the Room](subskills/goals-and-outcomes-in-social-play.md)
 - [An Act Apart? Play, Context, and the Permeable Circle](subskills/an-act-apart.md)
-
-## Audit checklist
-
-Before shipping or re-zipping this skill package, confirm:
-
-- one top-level folder only
-- one `SKILL.md` only
-- all listed subskills exist
-- all listed backlinks resolve
-- no unfinished drafting markers remain
-- no empty sections remain
-- titles are contextual variations, not flat copies
-- do not name the author in the skill content
 

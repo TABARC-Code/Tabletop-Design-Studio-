@@ -1,6 +1,6 @@
 # The Eurogame Genre: An Elegant Engine Room
 
-**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../SKILL.md)
+**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../master.md)
 
 **Related subskills:**
 - [From German Games to Eurogames: The Crossing](from-german-games-to-eurogames.md)

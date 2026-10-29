@@ -1,4 +1,4 @@
-> **Sub-skill of `rules-clarity-drafter`.** Not independently installable — read only when the router (`../SKILL.md`) directs here. Identifier: `drafting-checklist`.
+> **Sub-skill of `rules-clarity-drafter`.** Not independently installable — read only when the router (`../../SKILL.md`) directs here. Identifier: `drafting-checklist`.
 
 # Drafting Checklist
 

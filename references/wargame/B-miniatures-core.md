@@ -2,7 +2,7 @@
 
 Unit design, stat architecture, damage/survivability curves, probability tools, points systems, keywords, and mechanical feel.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: D (activation costs), E (fragility thresholds), C (battlefield geometry), R (stat block writing)
 
 ---

@@ -4,7 +4,7 @@ The vocabulary of design (tight vs loose), formalising the game space, the learn
 
 **Primary source:** Rick Priestley & John Lambshead — *Tabletop Wargames: A Designers' and Writers' Handbook* (Pen & Sword, 2016)
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: C (design philosophy), R (rules writing), B (unit design), I (world/faction)
 
 ---

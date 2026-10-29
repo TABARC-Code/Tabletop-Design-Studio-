@@ -2,7 +2,7 @@
 
 IGOUGO vs Alternate Activation, hybrid systems, tempo engineering, turn 1 protection, negative feedback via activation, and failure mode fixes.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: B (unit activation needs), C (scenario tempo), E (small-format pacing), F (Warcry dice economy), G (action-chain micro-activation)
 
 ---

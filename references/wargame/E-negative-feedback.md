@@ -2,7 +2,7 @@
 
 Small-format volatility, underdog mechanics, the Spearhead model, the complete negative feedback toolkit, and the optimal tempo curve for 4–5 turn skirmish games.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: D (tempo backbone), B (fragility profiles), C (mission-level feedback), F (Warcry comeback tools), G (narrative consequence)
 
 ---

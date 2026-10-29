@@ -4,7 +4,7 @@ Zone of Control, stacking, Combat Results Tables, supply lines and isolation, re
 
 **Primary source:** George Phillies — *Designing Wargames: Introduction* (2014)
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: C (design philosophy), D (turn sequence), B (unit design), R (rules writing and playtesting)
 
 ---

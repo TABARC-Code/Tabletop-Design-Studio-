@@ -1,10 +1,8 @@
-> Reference module of `rules-register-orchestrator`. Read when routing SWD-building work to `rules-clarity-drafter`, which in turn calls `oxford-editorial-indexer`.
+# Optional glossary handover
 
-# Delegation to Oxford Editorial Indexer
+The external oxford-editorial-indexer is not bundled. This mapping documents the intended handover; compatibility with a separately supplied version must be checked before use. It does not establish that the external service has run.
 
-## Why delegate rather than rebuild
-
-`oxford-editorial-indexer` already has a working glossary schema (`references/glossary-schema.md` in that skill), a cross-reference-discipline module, and an indexing-schema module — real, tested machinery for exactly the "build a controlled terminology register with an author" job. Rebuilding that inside `rules-clarity-drafter` would duplicate it badly: two glossary engines in the same lattice, silently drifting apart the first time either is edited. RCE-1's SWD schema is the tabletop-specific *content* (what fields a keyword needs, the four keyword shapes per RCE1.2.5); oxford-editorial-indexer is the *general mechanism* for building and maintaining any controlled register. RCE-1 supplies the schema; oxford-editorial-indexer runs the construction.
+Without that service, basic register construction follows the [local SWD schema](rce-1-swd-schema.md) and [register elicitation](register-elicitation.md). Keep all seven schema columns, with null only where permitted. Confirm the five lexicon decisions and Register entry before finished rules drafting. Produce the SWD and derive the readable glossary from it; external cross-reference and indexing services remain NOT ASSESSED. If the requested spreadsheet format cannot be produced, report that delivery gap rather than claiming a workbook exists.
 
 ## What stays with rules-clarity-drafter (never delegated)
 
@@ -45,6 +43,6 @@ The two schemas are not identical and must not be treated as interchangeable wit
 Two files, both real and both delivered to the author, not merely described:
 
 1. **The RCE-1 SWD** (Excel, per `rce-1-swd-schema.md`'s exact 7-field schema) — the authoritative, RCE-1-schema-complete register. This is what `rules-clarity-drafter` and `arbiter-engine` actually check drafts and edits against.
-2. **A standalone keyword list / glossary document** (built via oxford-editorial-indexer's own output conventions) — the human-readable, author-facing reference, cross-referenced and indexed the way Oxford already does for any project. This is what the author reads and shares with playtesters or co-designers; it is a *view* of the SWD, not a second independent source of truth.
+2. **A standalone keyword list / glossary document** (derived from the SWD, using verified external conventions only when available) — the human-readable, author-facing reference, cross-referenced and indexed the way Oxford already does for any project. This is what the author reads and shares with playtesters or co-designers; it is a *view* of the SWD, not a second independent source of truth.
 
 If the two ever disagree (an edit lands in one but not the other), the RCE-1 SWD wins, and the glossary document is regenerated from it — never the reverse. This mirrors the standing rule that a locked SWD entry is never silently overridden.

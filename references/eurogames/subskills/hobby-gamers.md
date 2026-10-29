@@ -1,6 +1,6 @@
 # Hobby Gamers: The Players Beyond the Box
 
-**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../SKILL.md)
+**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../master.md)
 
 **Related subskills:**
 - [A Gentle Map of Hobby Games](brief-introduction-to-hobby-games.md)

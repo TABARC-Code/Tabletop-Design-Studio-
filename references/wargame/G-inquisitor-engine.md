@@ -2,7 +2,7 @@
 
 Referee-led play, character-first philosophy, the action-chain activation mechanic, location-based damage, GM tools, scenario design with divergent motivations, and campaign consequence architecture.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: F (narrative infrastructure), D (action-chain as activation variant), C (wargame theory scaffolding), H (persona for writing Inquisitor-style material)
 
 ---

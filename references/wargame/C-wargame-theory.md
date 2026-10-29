@@ -2,7 +2,7 @@
 
 Design philosophy, decision space architecture, command and control, morale, scenario design, abstraction levels, tempo, player psychology, and meta longevity.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: B (unit taxonomy), D (activation choice), E (mission feedback), F (narrative systems), G (referee-led design), R (rules writing)
 
 ---

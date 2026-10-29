@@ -34,21 +34,19 @@ Video game and engine material is gone. That covers the engine specialists, the 
 
 I also left out the digital card-game module, `Q-digital-ccg.md`. It was all about client UI, ladders and online play, which is not table design.
 
-## Decisions I made without you
+## Proposed workflow
 
-You asked for the repo to be built without questions, so I picked defaults. Change any of them.
+PASS, CONCERNS, FAIL and NOT ASSESSED are an optional vocabulary, used only when adopted by the designer. The brief and four hard-gate items establish a starting scope, not a substitute for agreed acceptance criteria or testing. Digital-first card examples remain comparative design references.
 
-- Verdict words are PASS, CONCERNS, FAIL and NOT ASSESSED. The sources do not define a shared set, so these are mine.
-- Rigor is minimal. The skill asks for the one-page brief and the four hard-gate items before it asks for anything heavier.
-- The digital-first case studies in `references/cards/R-ccg-case-studies.md` and the deck-builder notes in `references/cards/S-deck-builder-and-formats.md` are kept as examples. If you want board games only, delete them.
+## Dependency limits
 
-## Known gaps
+Basic rules drafting and SWD construction use the bundled schema and author-confirmed terminology. Independent rules auditing through arbiter-engine and external indexing through oxford-editorial-indexer are not bundled. Those checks remain NOT ASSESSED when unavailable. The optional general wargaming lexicon is also external.
 
-These are written up in full in the Gaps section of `SKILL.md`. The short version:
+The local rules contracts describe these boundaries without requiring the original source folders or changes to separately installed packages.
 
-- The rules auditing skill that `rules-clarity-drafter` depended on is not in here. Drafting works. Auditing does not exist yet.
-- The glossary builder that the rules skill hands its index work to is not in here either.
-- Some contract notes still point at the original skill folders. Treat them as history.
+## Package checks
+
+Run `python3 scripts/check_package.py` for local links, routing paths, schema structure and persona data checks. Run `python3 -m unittest discover -s tests` for checker regression tests. These checks do not establish design quality or validate an external service.
 
 ## Sources
 

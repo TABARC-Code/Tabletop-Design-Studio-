@@ -2,7 +2,7 @@
 
 Warcry's design philosophy, the dice economy initiative system, parkour movement, modular scenario card engines, natural-English rules language, and campaign architecture.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: D (AA core loop), E (negative feedback), B (unit roles), G (Inquisitor narrative depth), C (scenario integration)
 
 ---

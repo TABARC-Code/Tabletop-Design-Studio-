@@ -14,7 +14,7 @@ The studio does not replace the designer. It remembers the boring questions: whe
 1. Classify the request using the table below. If it spans modes, take them in the order given in the Pipeline section.
 2. Read only the reference files the mode names. They are long, and most of a request needs a section, not the whole file.
 3. Produce the output the mode asks for, using the template named.
-4. Close with a verdict from the vocabulary in the Gates section, and say what you did not check.
+4. Close with the checks completed, unresolved risks and what was not assessed. Use the proposed verdict vocabulary only if the designer has adopted it.
 
 ## Step 1: Classify the request
 
@@ -23,7 +23,7 @@ The studio does not replace the designer. It remembers the boring questions: whe
 | "I have an idea", "help me design something", "pitch" | 1. Concept | `references/hydra/genres.md`, `templates/hydra/intake_form.md` |
 | "How should this mechanic work", "invent a mechanic", "turn structure", "activation" | 2. Mechanics | `references/hydra/mechanic-invention.md`, `references/hydra/engines.md`, `references/wargame/D-activation-systems.md` |
 | "Too swingy", "first-turn problem", "runaway leader", "does this balance", "odds" | 3. Balance and odds | `references/hydra/engines.md` (balance, randomness), `references/wargame/E-negative-feedback.md`, `references/cards/F-balance-and-meta.md` |
-| "Card design", "card template", "faction", "keyword", "deck builder", "expansion" | 4. Cards | `references/cards/` (start at `A-design-philosophy.md`) |
+| "Card design", "card template", "faction", "keyword", "deck builder", "expansion" | 4. Cards | `references/cards/` (start at `references/cards/A-design-philosophy.md`) |
 | "Write this rule", "rulebook", "is this wording clear", "keyword register" | 5. Rules writing | `references/rules/rce-1-writing-rules.md`, `references/wargame/R-rules-writing.md` |
 | "Scenario", "map", "campaign", "victory condition", "hex and counter", "zone of control" | 6. Scenarios and maps | `references/wargame/C-wargame-theory.md`, `references/wargame/Q-phillies-board-wargame.md` |
 | "Components", "print run", "cost per copy", "proofs", "box" | 7. Components and production | `references/hydra/engines.md` (production), `references/cards/O-physical-production.md` |
@@ -83,7 +83,7 @@ Two rules matter most:
 
 The drafting self-check is in `references/rules/drafting-checklist.md`. It is mandatory before anything is handed back.
 
-The orchestration notes are in `references/rules/RELATIONSHIP_CONTRACTS-orchestrator.md`. They describe an auditing skill and a glossary skill that are not part of this build. See the Gaps section below.
+The local route and dependency limits are in `references/rules/RELATIONSHIP_CONTRACTS-orchestrator.md` and `references/rules/RELATIONSHIP_CONTRACTS-drafter.md`. Build a basic SWD with the local schema and `references/rules/register-elicitation.md`. Only the short calibration passage may precede register confirmation; finished rules require the five locked lexicon decisions and confirmed Register entry. External auditing and indexing are optional services, not bundled capabilities. Missing external checks remain NOT ASSESSED, even when the drafting self-check passes.
 
 Output rules text using `templates/hydra/rules_v0_1.md`.
 
@@ -121,7 +121,7 @@ Check the build against the gate sequence below. Use `templates/hydra/dashboard.
 
 When two goals compete, use the lens order in `references/hydra/referee.md`: learnability, then experience, then fairness, then production, then novelty. If the tie still stands, pick the option easier to test at the next playtest.
 
-Kill the project after three iterations if the core loop is unstable, the identity is unclear, or structural failures remain unresolved. Not every idea survives refinement.
+After three unsuccessful iterations, recommend revising, pausing or retiring the concept, with the unresolved evidence. The designer decides; this review does not authorise deleting project material.
 
 ## Gates and verdicts
 
@@ -136,7 +136,7 @@ The verdict words below are a proposal of this build, not something the sources 
 | FAIL | Not met. Do not proceed until the named check passes. |
 | NOT ASSESSED | The check could not be run, for example because there was no playtest or no numbers. This is never a pass. |
 
-The stage sequence the modes follow is also this build's proposal, not a copy of a source:
+The stage sequence below is a proposal, not a copy of a source. Unconfirmed stages are guidance rather than authorisation to advance:
 
 1. Concept: pillars and audience agreed.
 2. Mechanics: the four hard-gate items present, and the core loop works on paper.
@@ -151,16 +151,14 @@ This order is a proposal of this build, not taken from a source. The hydra autop
 
 A new game from a raw idea runs Concept, then Mechanics, then Balance and odds, then Playtesting. Rules writing runs alongside Mechanics once the core loop is stable. Cards, scenarios and components are added as the game needs them. Gates and status run throughout.
 
+The brief and four hard-gate items are a starting scope, not a reduced evidence standard. Agree acceptance criteria and test depth before a formal balance, accessibility or production verdict. Unrun checks remain NOT ASSESSED.
+
 ## Writing style
 
 Follow `references/hydra/writing-doctrine.md`. In short: UK English, precision over ornament, and concrete examples. Keep one light sceptical edge in the notes, but do not let it bury the advice.
 
-## Gaps
+## Dependency limits
 
-These are known and deliberate. They are listed so nobody mistakes them for working features.
-
-- `rules-clarity-drafter` depended on an auditing skill, `arbiter-engine`, that is not in this build. The drafting side works without it. The audit side does not exist yet.
-- The glossary construction it delegates to `oxford-editorial-indexer` is not in this build either. `references/rules/delegation-to-oxford-editorial-indexer.md` describes the handover and points to files that are not here.
-- `references/rules/RELATIONSHIP_CONTRACTS-drafter.md` and `references/rules/RELATIONSHIP_CONTRACTS-orchestrator.md` still refer to the original separate skills by their old folder paths. Read them as history, not as live links.
-- `references/eurogames/master.md` keeps the packaging rules from its original skill. Ignore them. They are not relevant to this build.
-- The card and wargame modules were written as standalone masters with their own routers. Their internal router tables still refer to module letters. The module letters are kept so cross-references in the original texts still resolve.
+- arbiter-engine and oxford-editorial-indexer are not bundled. Local drafting and basic SWD construction work from the included references; independent auditing and external indexing remain NOT ASSESSED until verified services are supplied.
+- The optional general wargaming lexicon is not bundled. Its absence does not block drafting and must not be reported as a completed crosscheck.
+- Card and wargame module letters retain their original numbering. The studio routing table governs the combined workflow.

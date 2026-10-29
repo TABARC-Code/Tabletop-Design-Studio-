@@ -2,7 +2,7 @@
 
 Writing personas, cognitive frames, stylistic signatures, domain strengths, activation rules, and blended modes for wargame design and creative work.
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: R (rules writing style), C (design philosophy tone), G (Inquisitor writing voice), F (narrative tone)
 
 ---

@@ -1,6 +1,6 @@
 # Goals and Outcomes in Social Play: Winning Without Ruining the Room
 
-**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../SKILL.md)
+**Back to master:** [Eurogames: The Elegant Design, Culture, and Play Workshop](../master.md)
 
 **Related subskills:**
 - [The Pleasures of Play: Why the Table Sings](the-pleasures-of-play.md)

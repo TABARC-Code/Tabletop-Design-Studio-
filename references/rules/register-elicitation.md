@@ -1,8 +1,8 @@
-> **Sub-skill of `rules-clarity-drafter`.** Not independently installable — read only when the router (`../SKILL.md`) directs here. Identifier: `register-elicitation`.
+> **Sub-skill of `rules-clarity-drafter`.** Not independently installable — read only when the router (`../../SKILL.md`) directs here. Identifier: `register-elicitation`.
 
 # Register Elicitation
 
-Expands SKILL.md Stage 1. This is the one project-level decision RCE-1 requires be made deliberately rather than defaulted (Rule 9) — everything else in the standard applies regardless of where the project sits on the spectrum.
+Supports the studio's Rules writing mode. This is the project-level register decision RCE-1 requires to be confirmed rather than defaulted. A calibration passage can precede confirmation; finished drafting requires the initialised SWD described in [the schema](rce-1-swd-schema.md).
 
 ## Why this is sequenced the way it is
 

@@ -4,7 +4,7 @@ Overall and minor conceits, embedded vs emergent narrative, dramatic focus (obje
 
 **Primary source:** Glenn Ford & Mike Hutchinson — *The Fundamentals of Tabletop Miniatures Game Design* (CRC, 2025) — Chapters 9–10
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: I (overall conceit as world-building), A (scene-sequel structure as narrative architecture), F (emergent narrative in Warcry-style games), G (character-driven narrative), C (scenario design)
 
 ---

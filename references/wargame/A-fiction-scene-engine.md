@@ -5,7 +5,7 @@ Scene-sequel structure, narrative pacing, dramatic tension, goal-conflict-disast
 **Primary source:** Jack Bickham — *Elements of Fiction Writing: Scene & Structure*
 **Secondary:** G (Inquisitor narrative design), F (Warcry narrative emergence), H (Dorian Blackwood persona)
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: G (character-driven narrative), F (emergent narrative in skirmish), C (scenario design), H (writing personas for fiction output)
 
 ---

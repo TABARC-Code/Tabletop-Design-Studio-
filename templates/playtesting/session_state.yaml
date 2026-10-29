@@ -1,3 +1,5 @@
+evidence_type: # simulated or observed
+evidence_source: # session log or simulation method
 campaign_state:
   game_name:
   current_game_version:

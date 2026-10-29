@@ -1,5 +1,8 @@
 # Professional Playtest Audit Report
 
+Evidence type (simulated or observed):
+Evidence source:
+
 ## 1. Executive Summary
 
 ## 2. Test Configuration

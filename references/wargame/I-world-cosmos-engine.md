@@ -5,7 +5,7 @@ Faction design, setting construction, cosmological architecture, civilisation mo
 **Primary sources:** Ford & Hutchinson (core fantasy and conceit), Priestley & Lambshead (historical and setting integration), Phillies (theme as design variable)
 **Persona cross-loads:** Leon Stratton (cosmology), Dr. Cassian Veyr (hard-SF), Professor Aldous Thorne (civilisation), Dr. Lucian Graves (ideology), Archivist Theta (synthesis)
 
-← Back to hub: `../SKILL.md`
+← Back to hub: `../../SKILL.md`
 Cross-loads: C (theme as design variable), B (faction → unit design), G (Inquisitor political architecture), F (setting embedded in scenario design), H (persona selection by world type), A (narrative hooks grounded in world logic)
 
 ---

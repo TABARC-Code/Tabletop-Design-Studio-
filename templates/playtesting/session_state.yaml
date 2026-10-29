@@ -1,0 +1,30 @@
+evidence_type: # simulated or observed
+evidence_source: # session log or simulation method
+campaign_state:
+  game_name:
+  current_game_version:
+  current_rules_version:
+  active_tester_ids:
+  session_history:
+    - session_id:
+      tester_ids:
+      player_count:
+      game_count:
+      rules_version:
+      findings:
+  rule_change_history:
+    - rule_change_id:
+      symbol:
+      affected_area:
+      change:
+      observed_effect:
+  tester_history:
+    tester_id:
+      sessions_attended:
+      games_played:
+      rule_familiarity:
+      fatigue_level:
+      prior_feedback:
+      known_biases:
+      meta_awareness:
+      exploit_patterns:

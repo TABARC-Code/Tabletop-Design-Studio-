@@ -1,0 +1,12 @@
+rule_changes:
+  - rule_change_id:
+    symbol: # +, -, ~, ?, !
+    affected_area:
+    previous_rule:
+    new_rule:
+    reason_for_change:
+    expected_effect:
+    observed_effect:
+    side_effects:
+    recommendation:
+    status:
